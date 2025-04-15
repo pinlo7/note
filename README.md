@@ -22,6 +22,13 @@ docker exec -it homeassistant bash
 ```
 成功状态
 ![image](https://github.com/user-attachments/assets/7e02b2c9-65ca-494b-b41f-cd0829ed1a36)
+然后输入命令拉取仓库
+```
+git clone https://github.com/XiaoMi/ha_xiaomi_home.git
+```
+如果没有git命令自己安装哈
+
+> - 完了就根据官方文档的方法一执行就可以正确安装了
 
 ### 方法 1：使用 git clone 命令从 GitHub 下载
 
@@ -42,6 +49,6 @@ git fetch
 git checkout v1.0.0
 ./install.sh /config
 ```
-
+# 应该是最方便的方式了
 
 
