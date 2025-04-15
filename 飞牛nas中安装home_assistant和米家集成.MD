@@ -1,5 +1,5 @@
 # Home Assistant 米家集成 在 fnNas中的docker部署
-
+[仓库地址](https://github.com/XiaoMi/ha_xiaomi_home.git)
 米家集成是一个由小米官方提供支持的 Home Assistant 的集成组件，它可以让您在 Home Assistant 中使用小米 IoT 智能设备。
 
 ## 安装
